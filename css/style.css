@@ -1,20 +1,20 @@
 h1 {
-  font-family: "Noto Sans";
+  font-family: "Noto Sans", "Open Sans", "Arial";
   font-size: 30px;
   font-weight: bold;
 }
 h2 {
-  font-family: "Noto Sans";
+  font-family: "Noto Sans", "Open Sans", "Arial";
   font-size: 25px;
   font-weight: bold;
 }
 pp {
-  font-family: "Noto Sans";
+  font-family: "Noto Sans", "Open Sans", "Arial";
   font-size: 7px;
   font-weight: normal;
 }
 body {
-  font-family: "Noto Sans";
+  font-family: "Noto Sans", "Open Sans", "Arial";
   font-size: 15px;
   margin-top: 30;
   margin-bottom: auto;
@@ -24,7 +24,7 @@ body {
 a {
   text-decoration: none;
   color: #1434A4;
-  font-family: "Noto Sans";
+  font-family: "Noto Sans", "Open Sans", "Arial";
   font-size: 15px;
   display: inline;
 }
