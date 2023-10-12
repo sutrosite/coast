@@ -3,6 +3,11 @@ h1 {
   font-size: 30px;
   font-weight: bold;
 }
+pp {
+  font-family: "Noto Sans";
+  font-size: 7px;
+  font-weight: normal;
+}
 body {
   font-family: "Noto Sans";
   font-size: 15px;
