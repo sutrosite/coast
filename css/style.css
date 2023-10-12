@@ -3,7 +3,7 @@ h1 {
   font-size: 30px;
   font-weight: bold;
 }
-h1 {
+h2 {
   font-family: "Noto Sans";
   font-size: 25px;
   font-weight: bold;
@@ -26,4 +26,5 @@ a {
   color: #1434A4;
   font-family: "Noto Sans";
   font-size: 15px;
+  display: inline;
 }
