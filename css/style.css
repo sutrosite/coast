@@ -16,10 +16,6 @@ pp {
 body {
   font-family: "Noto Sans", "Open Sans", "Arial";
   font-size: 15px;
-  margin-top: 30;
-  margin-bottom: auto;
-  margin-right: 400px;
-  margin-left: 400px;
   width: 300px;
   margin: auto;
 }
