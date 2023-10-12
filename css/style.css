@@ -20,6 +20,8 @@ body {
   margin-bottom: auto;
   margin-right: 400px;
   margin-left: 400px;
+  width: 300px;
+  margin: auto;
 }
 a {
   text-decoration: none;
