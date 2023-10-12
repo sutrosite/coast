@@ -1,8 +1,8 @@
 body {
-  font-family: "NotoSans-Regular";
+  font-family: "Noto Sans";
   font-size: 25px;
-  margin-top: 10px;
+  margin-top: auto;
   margin-bottom: 10px;
-  margin-right: 80px;
-  margin-left: 80px;
+  margin-right: 400px;
+  margin-left: 400px;
 }
