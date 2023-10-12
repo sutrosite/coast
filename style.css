@@ -22,7 +22,7 @@ body {
   margin-left: 400px;
 }
 a {
-  style: "text-decoration:none";
+  text-decoration: none;
   color: #89CFF0;
   font-family: "Noto Sans";
   font-size: 15px;
